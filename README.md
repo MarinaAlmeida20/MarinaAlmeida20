@@ -3,8 +3,8 @@
 </div>
 
 <p align='center'> 
-<a href="https://www.linkedin.com/in/marina-almeida-7a829887/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/mari.mero.almeida/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/marina-almeida-7a829887/"><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/mari.mero.almeida/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://codepen.io/MarinaAlmeida"><img height="30" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-128.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
@@ -19,7 +19,6 @@
 - ⚡ Focus on JavaScript and Node.js. 
 
 I am passionate about **solving problems** and love **learn new technologies** always open to new challenges and ready to face changes 👩‍💻
-I am currently learning React 👩‍🎓
 
 ### Languages and Tools:
 
@@ -29,6 +28,7 @@ I am currently learning React 👩‍🎓
 	<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 	<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 	<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+	<img align="left" alt="npm" width="26px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/NPM-128.png" />
 	<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
