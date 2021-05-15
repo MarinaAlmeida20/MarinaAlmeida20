@@ -22,6 +22,8 @@ I am passionate about **solving problems** and love **learn new technologies** a
 
 ### Languages and Tools:
 
+<img align="left" alt="html" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" />
+<img align="left" alt="css" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 	<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 	<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -29,8 +31,9 @@ I am passionate about **solving problems** and love **learn new technologies** a
 	<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 	<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 	<img align="left" alt="npm" width="26px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/NPM-128.png" />
+	<img align="left" alt="yarn" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/yarn-128.png" />
 	<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img align="left" alt="firebase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" />
 <br />
 <br />
 
