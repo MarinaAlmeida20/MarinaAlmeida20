@@ -15,8 +15,8 @@
 ### About me
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning FullStack Web Development.
-- ⚡ Focus on JavaScript and Node.js. 
+- 🌱 I’m currently learning FrontEnd Web Development.
+- ⚡ Focus now on JavaScript and Node.js. 
 
 I am passionate about **solving problems** and love **learn new technologies** always open to new challenges and ready to face changes 👩‍💻
 
