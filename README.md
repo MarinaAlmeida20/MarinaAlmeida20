@@ -40,6 +40,8 @@ I am passionate about **solving problems** and love **learn new technologies** a
 ### 📊 GitHub Stats:
 ![Marina Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaAlmeida20&hide=stars,issues,contribs&theme=highcontrast&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaAlmeida20&layout=compact)](https://github.com/MarinaAlmeida20/github-readme-stats)
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MarinaAlmeida20)
 <!--
