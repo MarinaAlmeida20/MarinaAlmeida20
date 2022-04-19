@@ -41,6 +41,6 @@ I am passionate about **solving problems** and love **learn new technologies** a
 ![Marina Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaAlmeida20&hide=stars,issues,contribs&theme=highcontrast&show_icons=true)
 
 
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=MarinaAlmeida20)
 <!--
 **MarinaAlmeida20/MarinaAlmeida20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
