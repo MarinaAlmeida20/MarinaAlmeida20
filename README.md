@@ -45,5 +45,7 @@ I am passionate about **solving problems** and love **learn new technologies** a
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MarinaAlmeida20)
 
+![Snake animation](https://github.com/MarinaAlmeida20/MarinaAlmeida20/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **MarinaAlmeida20/MarinaAlmeida20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
