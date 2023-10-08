@@ -53,8 +53,5 @@ I enjoy **solving problems and learning new technologies**, always up for a chal
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaalmeida20&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
 
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=MarinaAlmeida20)
-
 <!--
 **MarinaAlmeida20/MarinaAlmeida20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
