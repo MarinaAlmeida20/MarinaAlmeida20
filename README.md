@@ -45,13 +45,3 @@ I enjoy **solving problems and learning new technologies**, always up for a chal
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /></a>
 <br />
 <br />
-
-### 📊 GitHub Status:
-<div>
-  <a href="https://github.com/MarinaAlmeida20">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marinaalmeida20&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaalmeida20&layout=compact&langs_count=7&theme=solarized-dark"/>
-</div>
-
-<!--
-**MarinaAlmeida20/MarinaAlmeida20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
