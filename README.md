@@ -16,7 +16,7 @@
 ### About me
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning Typescript, Jest, MongoDB and GraphQl
+- 🌱 I’m currently learning Java
 - ⚡  Currently, I am volunteering with CodeYourFuture as a Junior Full Stack Developer 
 
 I enjoy **solving problems and learning new technologies**, always up for a challenge and ready to adapt to new situations 👩‍💻.
