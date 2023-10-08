@@ -5,7 +5,7 @@
 <p align='center'> 
 <a href="https://www.linkedin.com/in/marinaalmeida20
 "><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/mari.mero.almeida/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png?raw=true"></a>&nbsp;&nbsp;
+<!-- <a href="https://www.instagram.com/mari.mero.almeida/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png?raw=true"></a>&nbsp;&nbsp; -->
 <a href="https://codepen.io/MarinaAlmeida"><img height="30" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-128.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
