@@ -5,11 +5,10 @@
 </div>
 
 <div align="center">
-<h3> 👩 **Marina Almeida** | 👩‍💻 **Software Engineer** | 🌎 **London, UK**</h3> 
+<h3> 👩 **Marina Almeida** | 👩‍💻 **Software Engineer** | 🌎 **Glasgow, UK**</h3> 
 </div>
 
 ### About me
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning Java
-- ⚡  Currently, I am volunteering with CodeYourFuture as a Junior Full Stack Developer 
+- 🌱 I’m currently learning Java, SpringBoot, Oracle, AWS, Angular, etc.
