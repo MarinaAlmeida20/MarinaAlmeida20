@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h3> 👩 **Marina Almeida** | 👩‍💻 **Software Engineer** | 🌎 **Glasgow, UK**</h3> 
+<h3> 👩 **Marina Almeida** | 👩‍💻 **Software Engineer** | 🌎 **Scotland, UK**</h3> 
 </div>
 
 ### About me
