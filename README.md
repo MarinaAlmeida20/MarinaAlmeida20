@@ -1,11 +1,11 @@
 <!--**MarinaAlmeida20/MarinaAlmeida20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div align="center">
-  <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Marina and I code 👩🏻‍💻 </h1>
+  <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Marina 👩🏻‍💻 </h1>
 </div>
 
 <div align="center">
-<h3> 👩 **Marina Almeida** | 👩‍💻 **Software Engineer** | 🌎 **Scotland, UK**</h3> 
+<h3> 👩 **Marina Almeida** | 👩‍💻 **SRE** | 🌎 **UK**</h3> 
 </div>
 
 ### About me
